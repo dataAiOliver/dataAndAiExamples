@@ -1,56 +1,13 @@
 # Overview
 
-Collection of Data & AI examples. More information here: [https://www.notion.so/Data-AI-examples-bce8a29e0e4b4c838acdf53e31e54c4c?pvs=4](https://www.notion.so/Data-AI-examples-bce8a29e0e4b4c838acdf53e31e54c4c?pvs=4)
+Collection of Data & AI examples regarding [this](https://medium.com/@data.ai.oliver/from-simple-regression-over-llms-to-rags-ai-tools-and-concepts-you-should-know-e5c9fc7e87a0) blog series on medium. Description of the subfolders:
 
-- `simpleRegression.ipynb`: Simple regression example.
-- `streamlitExampleRegression.py`: Streamlit exampel with upload Excel and use network from `simpleRegression.ipynb`.
-
-# Technical stuff
-
-## Streamlit
-
-- run it:
-```powershell
-python -m streamlit run .\streamlitExampleRegression.py
-```
-
-## Docker
-
-- Create docker build:
-```bash
-docker build -t streamlitexample .
-```
-
-- Enter image in terminal:
-```bash
-docker run -it streamlitexample /bin/bash
-```
-
-- Run it:
-```bash
-docker run -p 5000:5000 streamlitexample
-```
-
-- access:
-```bash
-http://localhost:5000
-```
-
-
-## Jupyter
-- Add paths to import from anywhere in jupyter:
-
-```python
-sys.path.append(r"FULLPATH")
-```
-
-- autoreload:
-
-```python
-%load_ext autoreload
-
-%autoreload 2
-```
+- **regression**: Train and save a network, deploy an application using streamlit and create an image from the dockerfile.
+- **img2text2story2speech**: Example application to describe an image as text, tell a story based on this text and provice an audio file of the story. 
+- **ragSimple**: Simple RAG or chatting with local PDFs.
+- **ragComplexPdfs**: RAG or chatting with more complex PDFs.
+- **sqlAgent**: Agents to chat with a database.
 
 ## Postgres
-Some problems with login, therefor changed 'method' to 'trust' here: ```"C:\Program Files\PostgreSQL\15\data\pg_hba.conf"```
+If problems with settign up Postgres, it might help to change 'method' to 'trust' here: ```"C:\Program Files\PostgreSQL\15\data\pg_hba.conf"```
+This allows for a connection without entering password.
