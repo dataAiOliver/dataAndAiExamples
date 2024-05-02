@@ -7,12 +7,12 @@ def main():
     if 'qa' not in st.session_state:
         print("INITIALIZE QA")
         st.session_state.fp_pdfs = r"C:\Users\oliver.koehn\Documents\gitProjects\dataAndAiExamples\ragSimple\in\pdfs"
-        st.session_state.qa = get_qa(st.session_state.fp_pdfs)
+        st.session_state.qa = get_qa(st.session_state.fp_pdfs, openai_source)
 
     # Button for reloading
     if st.button('Reload PDFs'):
         print(f"RELOAD QA")
-        st.session_state.qa = get_qa(st.session_state.fp_pdfs)
+        st.session_state.qa = get_qa(st.session_state.fp_pdfs, openai_source)
 
     st.title("Echo Bot")
 
@@ -39,5 +39,7 @@ def main():
         # Add assistant response to chat history
         st.session_state.messages.append({"role": "assistant", "content": response})
 
+openai_source = "openai"
+# python -m streamlit run .\app.py
 if __name__ == "__main__":
     main()
