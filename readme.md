@@ -8,6 +8,14 @@ Collection of Data & AI examples regarding [this](https://medium.com/@data.ai.ol
 - **ragComplexPdfs**: RAG or chatting with more complex PDFs.
 - **sqlAgent**: Agents to chat with a database.
 
+# Setup
+
+I am coding on a Windows machine using python 3.12.1. To setup the dependencies for this whole repository, you can run
+
+```
+python -m pip install -r requirements.txt
+```
+
 ## Postgres
 If problems with settign up Postgres, it might help to change 'method' to 'trust' here: ```"C:\Program Files\PostgreSQL\15\data\pg_hba.conf"```
 This allows for a connection without entering password.

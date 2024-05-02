@@ -24,8 +24,8 @@ def tellAStory(openai_source, prompt, mock = False):
         from langchain_openai import OpenAI
         llm = OpenAI(model="gpt-3.5-turbo-instruct")
 
-    template = """You are a story teller; You can generate a short story based on a simple narrative,
-    the story should be no more than 20 words; CONTEXT: {scenario} STORY:"""
+    template = """Please tell me a 30 words story about the provided context. CONTEXT: {scenario} STORY:"""
+
 
     llm_prompt = PromptTemplate(input_variables=["scenario"],template=template,)
 
@@ -33,7 +33,10 @@ def tellAStory(openai_source, prompt, mock = False):
 
     return chain.run(prompt)
 
-def query(payload, API_URL = "https://api-inference.huggingface.co/models/espnet/kan-bayashi_ljspeech_vits"):
-	headers = {"Authorization": f'Bearer {os.getenv("HUGGINGFACE_API_TOKEN")}'}
-	response = requests.post(API_URL, headers=headers, json=payload)
-	return response.content
+def query(payload, API_URL = "https://api-inference.huggingface.co/models/espnet/kan-bayashi_ljspeech_vits", mock = False):
+    if mock:
+        with open(os.path.join("in", "audio.flac"), "rb") as f: audio = f.read()
+        return audio
+    headers = {"Authorization": f'Bearer {os.getenv("HUGGINGFACE_API_TOKEN")}'}
+    response = requests.post(API_URL, headers=headers, json=payload)
+    return response.content
