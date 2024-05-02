@@ -1,6 +1,8 @@
-# Uber Quarterly Report Q4 2022
+# UBER Financial Performance Q4 2022
 
-# Uber Quarterly Report Q4 2022
+# UBER Financial Performance for Fourth Quarter 2022
+
+The document offers an extensive overview of the UBER's financial performance for the fourth quarter of 2022. It includes unaudited financial statements, management discussion and analysis, and other relevant disclosures as required by the SEC. The form features several tables for detailed examination. Please provide precise responses when addressing the questions contained within.
 
 ## Financial Highlights for Fourth Quarter 2022
 
@@ -9,19 +11,22 @@
 - Net income attributable to Uber Technologies, Inc. was $595 million.
 - Adjusted EBITDA of $665 million, up $579 million YoY.
 - Net cash used in operating activities was $244 million and free cash flow was $(303) million.
+- Unrestricted cash, cash equivalents, and short-term investments were $4.3 billion at the end of the fourth quarter.
 
-## Outlook for Q1 2023
-
-For Q1 2023, Uber anticipates:
-
-- Gross Bookings to grow 20% to 24% YoY on a constant currency basis.
-- Adjusted EBITDA of $660 million to $700 million.
+### CEO and CFO Statements
 
 "We ended 2022 with our strongest quarter ever, with robust demand and record margins," said Dara Khosrowshahi, CEO.
 
-"In 2022, we significantly exceeded our profitability outlook," said Nelson Chai, CFO.
+"In 2022, we significantly exceeded our profitability outlook, with an incremental margin of 10%," said Nelson Chai, CFO.
+
+### Outlook for Q1 2023
+
+- Gross Bookings to grow 20% to 24% YoY on a constant currency basis, with an expected 3 percentage point currency headwind.
+- Adjusted EBITDA of $660 million to $700 million.
+
+For more detailed information, please refer to the official UBER financial report for Q4 2022.
 ---
-# Uber Quarterly Report Q4 2022
+# UBER Financial Performance Q4 2022
 
 # Financial and Operational Highlights for Fourth Quarter 2022
 
@@ -61,19 +66,23 @@ Adjusted EBITDA
 $86
 $665
 
+**
+
 Net cash used in operating activities
-($107)
-($244)
+$(107)
+$(244)
 (128%)
 
 Free cash flow
-($187)
-($303)
+$(187)
+$(303)
 (62%)
 
 Free cash flow, excluding HMRC VAT claims settlement
-($187)
+$(187)
 $430
+
+**
 
 (1) See �Definitions of Non-GAAP Measures� and �Reconciliations of Non-GAAP Measures� sections herein for an explanation and reconciliations of non-GAAP measures used throughout this release.
 
@@ -108,8 +117,10 @@ $31,877
 90%
 
 Net loss attributable to Uber Technologies, Inc.
-($496)
-($9,141)
+$(496)
+$(9,141)
+
+**
 
 Mobility Adjusted EBITDA
 $1,596
@@ -117,24 +128,34 @@ $3,299
 107%
 
 Delivery Adjusted EBITDA
-($348)
+$(348)
 $551
 
+**
+
 Adjusted EBITDA
-($774)
+$(774)
 $1,713
 
+**
+
 Net cash provided by (used in) operating activities
-($445)
+$(445)
 $642
 
+**
+
 Free cash flow
-($743)
+$(743)
 $390
 
+**
+
 Free cash flow, excluding HMRC VAT claims settlement
-($743)
+$(743)
 $1,123
+
+**
 
 (1) See �Definitions of Non-GAAP Measures� and �Reconciliations of Non-GAAP Measures� sections herein for an explanation and reconciliations of non-GAAP measures used throughout this release.
 
@@ -144,21 +165,30 @@ $1,123
 
 ** Percentage not meaningful.
 ---
-# Uber Quarterly Report
+# UBER Financial Performance Q4 2022
 
-# Results by Offering and Segment
+# UBER Financial Performance for the Fourth Quarter of 2022
+
+## Results by Offering and Segment
+
+### Gross Bookings
 
 | |Three Months Ended December 31|% Change|% Change (Constant Currency)|
 |---|---|---|---|
+| |2021|2022| |
 |Mobility|$11,340|$14,894|31%|37%|
 |Delivery|$13,444|$14,315|6%|14%|
 |Freight (1)|$1,082|$1,540|42%|43%|
 |Total|$25,866|$30,749|19%|26%|
 
-(1) Beginning in Q4 2021, Freight Gross Bookings include contributions from the acquisition of Transplace which closed on November 12, 2021.
+(1) Beginning in Q4 2021, Freight Gross Bookings include contributions from the acquisition of Transplace which closed on
+November 12, 2021.
+
+### Revenue
 
 | |Three Months Ended December 31|% Change|% Change (Constant Currency)|
 |---|---|---|---|
+| |2021|2022| |
 |Mobility (1)|$2,278|$4,136|82%|94%|
 |Delivery (2)|$2,420|$2,931|21%|33%|
 |Freight (3)|$1,080|$1,540|43%|43%|
@@ -166,33 +196,38 @@ $1,123
 
 (1) Mobility Revenue in Q4 2022 benefited by a net amount of $1.2 billion from business model changes in the UK.
 
-(2) Delivery Revenue in Q4 2021 and Q4 2022 benefited from business model changes in some countries that classify certain payments and incentives as cost of revenue by $548 million and $686 million, respectively.
+(2) Delivery Revenue in Q4 2021 and Q4 2022 benefited from business model changes in some countries that classify certain
+payments and incentives as cost of revenue by $548 million and $686 million, respectively.
 
 (3) Freight Revenue includes contributions from the acquisition of Transplace which closed on November 12, 2021.
 
-| |Three Months Ended December 31|
-|---|---|
-|Mobility (1)|20.1%|27.8%|
-|Delivery (2)|18.0%|20.5%|
+### Take Rates
 
-(1) Mobility Take Rate in Q4 2022 includes an 800 bps net benefit from business model changes in the UK. Excluding this impact, Mobility Take Rate would be 19.8%. Mobility Take Rate was also adversely impacted by pass-through fuel surcharges implemented through Q4 2022 in various markets globally.
+| |Three Months Ended December 31|2021|2022|
+|---|---|---|---|
+|Mobility (1)|20.1%|27.8%| |
+|Delivery (2)|18.0%|20.5%| |
 
-(2) Delivery Take Rate in Q4 2021 and Q4 2022 benefited from business model changes in some countries that classify certain payments and incentives as cost of revenue by 410 bps and 480 bps, respectively.
+(1) Mobility Take Rate in Q4 2022 includes an 800 bps net benefit from business model changes in the UK. Excluding this impact,
+Mobility Take Rate would be 19.8%. Mobility Take Rate was also adversely impacted by pass-through fuel surcharges
+implemented through Q4 2022 in various markets globally.
+
+(2) Delivery Take Rate in Q4 2021 and Q4 2022 benefited from business model changes in some countries that classify certain
+payments and incentives as cost of revenue by 410 bps and 480 bps, respectively.
 ---
-# Uber Quarterly Report
+# UBER Financial Performance Q4 2022
 
-# Uber Quarterly Report
+# UBER Financial Performance Q4 2022
 
 ## Adjusted EBITDA and Segment Adjusted EBITDA
 
-| |Three Months Ended December 31, 2021|2022|% Change|
+| |Three Months Ended December 31, 2021|Three Months Ended December 31, 2022|% Change|
 |---|---|---|---|
 |Segment Adjusted EBITDA:|$575|$1,012|76%|
-|Mobility|$575|$1,012|76%|
 |Delivery|$25|$241|**|
 |Freight|($25)|($8)|68%|
-|Corporate G&A and Platform R&D|($489)|($580)|19%|
-|Adjusted EBITDA|$86|$665|**|
+|Corporate G&A and Platform R&D (1), (2)|($489)|($580)|(19)%|
+|Adjusted EBITDA (3)|$86|$665|**|
 
 (1) Excludes stock-based compensation expense.
 
@@ -202,92 +237,133 @@ $1,123
 
 ## Revenue by Geographical Region
 
-| |Three Months Ended December 31, 2021|2022|% Change|
+| |Three Months Ended December 31, 2021|Three Months Ended December 31, 2022|% Change|
 |---|---|---|---|
-|United States and Canada ("US&CAN")|$3,613|$4,976|38%|
+|United States and Canada ("US&CAN") (1)|$3,613|$4,976|38%|
 |Latin America ("LatAm")|$419|$547|31%|
-|Europe, Middle East and Africa ("EMEA")|$995|$2,092|110%|
+|Europe, Middle East and Africa ("EMEA") (2)|$995|$2,092|110%|
 |Asia Pacific ("APAC")|$751|$992|32%|
 |Total|$5,778|$8,607|49%|
 
+(1) Beginning in Q4 2021, US&CAN Revenue includes contributions from the acquisition of Transplace.
+
+(2) EMEA Revenue in Q4 2022 benefited by $1.2 billion from Mobility business model changes in the UK.
+
 ## Financial Highlights for the Fourth Quarter 2022
 
-Mobility
+### Mobility
 
-- Gross Bookings: $14.9 billion
-- Revenue: $4.1 billion
-- Mobility Take Rate: 27.8%
-- Adjusted EBITDA: $1.0 billion
+- Gross Bookings of $14.9 billion
+- Revenue of $4.1 billion
+- Adjusted EBITDA of $1.0 billion
 
-Delivery
+### Delivery
 
-- Gross Bookings: $14.3 billion
+- Gross Bookings of $14.3 billion
 ---
-# Uber Technologies, Inc. Quarterly Report
+# UBER Financial Performance Q4 2022
 
-# Uber Technologies, Inc. Quarterly Report
+# UBER Financial Performance Q4 2022
 
 ## Financial Highlights
 
-- Revenue: $2.9 billion
-- Delivery Revenue: 21% YoY growth, 6% QoQ growth
-- Take Rate: 20.5%, 250 bps YoY growth, 30 bps QoQ growth
-- Benefit from business model changes in certain countries
-- Adjusted EBITDA: $241 million
-- Delivery Adjusted EBITDA: $216 million YoY growth, $60 million QoQ growth
-- Delivery Adjusted EBITDA margin: 1.7%
-- Freight Revenue: $1.5 billion
-- Freight Revenue: 43% YoY growth, 12% QoQ decline
-- Acquisition of Transplace contributed to revenue
-- Adjusted EBITDA loss: $8 million
-- Freight Adjusted EBITDA: $17 million YoY growth, $9 million QoQ decline
-- Freight Adjusted EBITDA margin: (0.5)%
+Revenue of $2.9 billion: Delivery Revenue grew 21% YoY and 6% QoQ. Take Rate of 20.5% grew 250 bps YoY and grew 30 bps
+QoQ. Business model changes in some countries that classify certain payments and incentives as cost of revenue benefited
+Delivery Take Rate by 480 bps in the quarter (compared to 410 bps benefit in Q4 2021 and 500 bps benefit in Q3 2022).
 
-## Operating Expenses
+Adjusted EBITDA of $241 million: Delivery Adjusted EBITDA grew $216 million YoY and $60 million QoQ, driven by higher
+volumes, increased Advertising revenue, and improved network efficiencies. Delivery Adjusted EBITDA margin as a percentage
+of Gross Bookings reached 1.7%, compared to 0.2% in Q4 2021 and 1.3% in Q3 2022.
 
-- Cost of revenue excluding D&A: $5.3 billion, 17.3% of Gross Bookings
-- Operating expenses:
-- Operations and support: $564 million, 1.8% of Gross Bookings
-- Sales and marketing: $1.1 billion, 3.6% of Gross Bookings
-- Research and development: $452 million, 1.5% of Gross Bookings
-- General and administrative: $523 million, 1.7% of Gross Bookings
+Revenue of $1.5 billion: Freight Revenue grew 43% YoY and declined 12% QoQ. Freight Revenue includes contributions from
+the acquisition of Transplace which closed on November 12, 2021.
 
-## Operating Highlights
+Adjusted EBITDA loss of $8 million: Freight Adjusted EBITDA grew $17 million YoY but declined $9 million QoQ. Freight
+Adjusted EBITDA margin as a percentage of Gross Bookings improved 1.8 percentage points YoY to (0.5)% driven by increased
+marketplace efficiency on our digital platform and strong sales momentum in our Transportation Management business.
 
-- Monthly Active Platform Consumers (MAPCs): 131 million
-- Trips: 2.1 billion
-- Membership:
-- Launched Uber One membership program in multiple countries
-- Global member base nearly doubled YoY
+Corporate G&A and Platform R&D expenses of $580 million, compared to $489 million in Q4 2021, and $564 million in Q3 2022.
+On a YoY basis, Corporate G&A and Platform R&D remained flat as a percentage of Gross Bookings.
+
+## Costs and Operating Expenses
+
+Cost of revenue excluding D&A: GAAP cost of revenue equaled non-GAAP cost of revenue and was $5.3 billion, representing
+17.3% of Gross Bookings, compared to 12.0% and 17.7% in Q4 2021 and Q3 2022, respectively. On a YoY basis, non-GAAP cost
+of revenue as a percentage of Gross Bookings increased due to the classification of certain Delivery and Mobility payments as
+cost of revenue attributable to business model changes in some countries and the acquisition of Transplace.
+
+GAAP and Non-GAAP operating expenses (Non-GAAP operating expenses exclude certain amounts as further detailed in the
+�Reconciliations of Non-GAAP Measures� section):
+
+- Operations and support: GAAP operations and support was $605 million. Non-GAAP operations and support was $564
+million, representing 1.8% of Gross Bookings, compared to 2.0% in both Q4 2021 and Q3 2022. On a YoY basis, non-GAAP
+operations and support as a percentage of Gross Bookings decreased due to improved fixed cost leverage.
+- Sales and marketing: GAAP sales and marketing was $1.1 billion. Non-GAAP sales and marketing was $1.1 billion,
+representing 3.6% of Gross Bookings, compared to 4.8% and 3.9% in Q4 2021 and Q3 2022, respectively. On a YoY basis,
+non-GAAP sales and marketing as a percentage of Gross Bookings decreased due to a decrease in consumer discounts, rider
+facing loyalty expense, promotions, credits and refunds.
+- Research and development: GAAP research and development was $747 million. Non-GAAP research and development was
+$452 million, representing 1.5% of Gross Bookings, compared to 1.4% and 1.6% in Q4 2021 and Q3 2022, respectively. As a
+percentage of Gross Bookings, non-GAAP research and development increased on a YoY basis due to higher employee costs,
+but decreased on a QoQ basis with slower headcount growth.
+- General and administrative: GAAP general and administrative was $745 million. Non-GAAP general and administrative was
+$523 million, representing 1.7% of Gross Bookings, compared to 1.8% and 1.7% in Q4 2021 and Q3 2022, respectively. On a
+YoY basis, non-GAAP general and administrative as a percentage of Gross Bookings decreased due to improved fixed cost
+leverage.
+
+## Operating Highlights for Q4 2022
+
+Monthly Active Platform Consumers (�MAPCs�) reached 131 million: MAPCs grew 11% YoY and 6% QoQ to 131 million, driven by
+continued improvement in consumer activity for our Mobility offerings. Mobility MAPCs reached an all-time high of over 100
+million.
+
+Trips of 2.1 billion: Trips on our platform grew 19% YoY and 8% QoQ, driven by Mobility and Delivery growth.
+
+Membership: Launched our single cross-platform membership program, Uber One, in Chile, France, Japan, Spain and Taiwan.
+Uber One is now available across 12 countries. In addition, announced a new offer for Capital One cardholders to get up to
+24 months of free Uber One plus 10x cash back benefits. Our global member base nearly doubled YoY to nearly 12 million.
 ---
-# Uber Quarterly Report
+# UBER Financial Performance Q4 2022
 
-# Uber Technologies, Inc. - Quarterly Report Highlights
+# UBER Financial Performance Q4 2022
 
-Below are some key highlights from Uber's quarterly report:
+The document offers an extensive overview of the UBER's financial performance for the fourth quarter of 2022. It includes unaudited financial statements, management discussion and analysis, and other relevant disclosures as required by the SEC. The form features several tables for detailed examination. Please provide precise responses when addressing the questions contained within.
 
-- Earners reached an all-time high of 5.4 million, with monthly active drivers and couriers on Uber also reaching 5.4 million.
-- Expanded the rollout of Upfront Pricing and Upfront Destination information to earners outside the US, starting with EMEA.
-- Advertising: Expanded Journey Ads to eight markets, with revenue run-rate from Advertising exceeding $500 million.
-- Signed the first ever sectoral bargaining agreement for drivers in the Private Hire Vehicle industry in France.
-- Announced the launch of Motional�s public robotaxi service in Las Vegas, with plans to expand to Los Angeles, CA.
-- Partnered with Cartken for food deliveries via automated robots in Miami, FL.
-- Announced new product features for driver safety and expanded services like Uber Travel and Uber Charter.
-- Expanded partnerships for Electric Vehicle (�EV�) rentals and charging stations for drivers.
-- Continued growth in Delivery metrics with stable consumer, merchant, and courier metrics.
-- Announced new and expanded grocery partnerships in the US and UK.
-- Launched Uber Direct in Japan and partnered with Walgreens in the US for round-the-clock delivery services.
-- Announced a new program with Visa to support small-and medium-sized businesses in transitioning to green packaging.
+## Highlights
 
-For more detailed information, please refer to the complete quarterly report filed by Uber Technologies, Inc. with the Securities and Exchange Commission.
+- Monthly active drivers and couriers on Uber reached 5.4 million.
+- Revenue run-rate from Advertising exceeded $500 million.
+- Signed the first-ever sectoral bargaining agreement for drivers in the Private Hire Vehicle industry in France.
+- Announced the launch of Motional�s public robotaxi service in Las Vegas.
+- Expanded Uber Travel to over 10,000 cities worldwide.
+- Launched Uber Carshare in Australia.
+- Expanded partnership with Hertz to make up to 25,000 EVs available to drivers on Uber�s platform.
+- Delivery metrics showed stable growth despite a softening macroeconomic environment.
+- Announced new grocery partnerships and expansions in the US and UK.
+- Launched Uber Direct in Japan and partnered with Walgreens in the US for delivery services.
+- Introduced a new program with Visa to support green and sustainable packaging solutions for businesses.
+
+## Financial Performance Overview
+
+Insert detailed financial performance overview here.
+
+## Management Discussion and Analysis
+
+Insert management discussion and analysis here.
+
+## Other Disclosures
+
+Insert other relevant disclosures here.
+
+&copy; 2022 UBER. All rights reserved.
 ---
-# Uber Quarterly Report
+# UBER Financial Performance Q4 2022
 
-# Uber Quarterly Report
+# UBER Financial Performance Q4 2022
 
-Freight
+## Freight
 
-- Volvo autonomous partnership: Announced a partnership with Volvo Autonomous Solutions (V.A.S.) to deploy Volvo�s autonomous transport solution on the Uber Freight network, beginning in 2023. Following the partnerships with Waymo and Aurora, Uber Freight is building the most extensive AV network in the industry.
+Volvo autonomous partnership: Announced a partnership with Volvo Autonomous Solutions (V.A.S.) to deploy Volvo�s autonomous transport solution on the Uber Freight network, beginning in 2023. Following the partnerships with Waymo and Aurora, Uber Freight is building the most extensive AV network in the industry.
 
 ## Webcast and Conference Call Information
 
@@ -303,55 +379,63 @@ Uber�s mission is to create opportunity through movement. We started in 2010 t
 
 This press release contains forward-looking statements regarding our future business expectations which involve risks and uncertainties. Actual results may differ materially from the results predicted, and reported results should not be considered as an indication of future performance. Forward-looking statements include all statements that are not historical facts and can be identified by terms such as �anticipate,� �believe,� �contemplate,� �continue,� �could,� �estimate,� �expect,� �hope,� �intend,� �may,� �might,� �objective,� �ongoing,� �plan,� �potential,� �predict,� �project,� �should,� �target,� �will,� or �would� or similar expressions and the negatives of those terms.
 
-Forward-looking statements involve known and unknown risks, uncertainties and other factors that may cause our actual results, performance or achievements to be materially different from any future results, performance or achievements expressed or implied by the forward-looking statements. These risks, uncertainties and other factors relate to, among others: competition, managing our growth and corporate culture, financial performance, investments in new products or offerings, our ability to attract drivers, consumers and other partners to our platform, our brand and reputation, other legal and regulatory developments, particularly with respect to our relationships with drivers and couriers and the impact of the global economy, including rising inflation and interest rates.
+## Non-GAAP Financial Measures
 
-For additional information on other potential risks and uncertainties that could cause actual results to differ from the results predicted, please see our most recent quarterly report on Form 10-Q for the quarter ended September 30, 2022 and subsequent annual reports, quarterly reports and other filings filed with the Securities and Exchange Commission from time to time.
+To supplement our financial information, which is prepared and presented in accordance with generally accepted accounting principles in the United States of America (�GAAP�), we use the following non-GAAP financial measures: Adjusted EBITDA; Free cash flow; Free cash flow, excluding HMRC VAT claims settlement; Non-GAAP Costs and Operating Expenses as well as, revenue growth rates in constant currency. The presentation of this financial information is not intended to be considered in isolation or as a substitute for, or superior to, the financial information prepared and presented in accordance with GAAP.
+
+We believe that both
+---
+# UBER Financial Performance Q4 2022
+
+# UBER Financial Performance Q4 2022
+
+The document offers an extensive overview of the UBER's financial performance for the fourth quarter of 2022. It includes
+unaudited financial statements, management discussion and analysis, and other relevant disclosures as required by the SEC.
+The form features several tables for detailed examination. Please provide precise responses when addressing the questions
+contained within.
 
 ## Non-GAAP Financial Measures
 
-To supplement our financial information, which is prepared and presented in accordance with generally accepted accounting principles in the United States of America (�GAAP�), we use the following non-GAAP financial measures: Adjusted EBITDA; Free cash flow; Free cash flow, excluding HMRC VAT claims settlement; Non-GAAP Costs and Operating Expenses as well as, revenue growth rates in constant currency. The
+For more information on these non-GAAP financial measures, please see the sections titled �Key Terms for Our Key Metrics and
+Non-GAAP Financial Measures,� �Definitions of Non-GAAP Measures� and �Reconciliations of Non-GAAP Measures� included at the
+end of this release. In regards to forward looking non-GAAP guidance, we are not able to reconcile the forward-looking non-GAAP
+Adjusted EBITDA measure to the closest corresponding GAAP measure without unreasonable efforts because we are unable to predict
+the ultimate outcome of certain significant items. These items include, but are not limited to, significant legal settlements,
+unrealized gains and losses on equity investments, tax and regulatory reserve changes, restructuring costs and acquisition and
+financing related impacts.
+
+### Contacts
+
+- Investors and analysts: investor@uber.com
+- Media: press@uber.com
 ---
-# Uber Quarterly Report
+# UBER Fourth Quarter 2022 Financial Performance
 
-# Uber Quarterly Report
+# UBER TECHNOLOGIES, INC. - CONDENSED CONSOLIDATED BALANCE SHEETS
 
-This document contains the quarterly report filed by Uber Technologies, Inc. with the Securities and Exchange Commission (SEC).
+## (In millions, Unaudited)
 
-For more information on non-GAAP financial measures, please refer to the sections titled �Key Terms for Our Key Metrics and Non-GAAP Financial Measures,� �Definitions of Non-GAAP Measures,� and �Reconciliations of Non-GAAP Measures� included at the end of this release.
+|Assets|2021|As of December 31, 2022|
+|---|---|---|
+|Cash and cash equivalents|$4,295|$4,208|
+|Short-term investments|$0|$103|
+|Restricted cash and cash equivalents|$631|$680|
+|Accounts receivable, net|$2,439|$2,779|
+|Prepaid expenses and other current assets|$1,454|$1,479|
+|Total current assets|$8,819|$9,249|
+|Restricted cash and cash equivalents|$2,879|$1,789|
+|Restricted investments|$0|$1,614|
+|Investments|$11,806|$4,401|
+|Equity method investments|$800|$870|
+|Property and equipment, net|$1,853|$2,082|
+|Operating lease right-of-use assets|$1,388|$1,449|
+|Intangible assets, net|$2,412|$1,874|
+|Goodwill|$8,420|$8,263|
+|Other assets|$397|$518|
+|Total assets|$38,774|$32,109|
 
-Regarding forward-looking non-GAAP guidance, Uber is unable to reconcile the forward-looking non-GAAP Adjusted EBITDA measure to the closest corresponding GAAP measure without unreasonable efforts due to the unpredictability of certain significant items. These items may include significant legal settlements, unrealized gains and losses on equity investments, tax and regulatory reserve changes, restructuring costs, and acquisition and financing impacts.
-
-## Contacts
-
-Investors and analysts: investor@uber.com
-
-Media: press@uber.com
----
-# Uber Technologies, Inc. - Quarterly Report
-
-# Uber Technologies, Inc. - Condensed Consolidated Balance Sheets
-
-|Assets|(Unaudited)|2021 As of December 31|2022|
-|---|---|---|---|
-|Cash and cash equivalents|$4,295|$4,208| |
-|Short-term investments|$0|$103| |
-|Restricted cash and cash equivalents|$631|$680| |
-|Accounts receivable, net|$2,439|$2,779| |
-|Prepaid expenses and other current assets|$1,454|$1,479| |
-|Total current assets|$8,819|$9,249| |
-|Restricted cash and cash equivalents|$2,879|$1,789| |
-|Restricted investments|$0|$1,614| |
-|Investments|$11,806|$4,401| |
-|Equity method investments|$800|$870| |
-|Property and equipment, net|$1,853|$2,082| |
-|Operating lease right-of-use assets|$1,388|$1,449| |
-|Intangible assets, net|$2,412|$1,874| |
-|Goodwill|$8,420|$8,263| |
-|Other assets| | | |
-|Total assets|$38,774|$32,109| |
-
-|Liabilities, redeemable non-controlling interests and equity|
-|---|
+|Liabilities, redeemable non-controlling interests and equity|2021|As of December 31, 2022|
+|---|---|---|
 |Accounts payable|$860|$728|
 |Short-term insurance reserves|$1,442|$1,692|
 |Operating lease liabilities, current|$185|$201|
@@ -363,6 +447,7 @@ Media: press@uber.com
 |Other long-term liabilities|$935|$786|
 |Total liabilities|$23,425|$23,605|
 |Redeemable non-controlling interests|$204|$430|
+|Equity| | |
 |Common stock|$0|$0|
 |Additional paid-in capital|$38,608|$40,550|
 |Accumulated other comprehensive loss|($524)|($443)|
@@ -372,83 +457,148 @@ Media: press@uber.com
 |Total equity|$15,145|$8,074|
 |Total liabilities, redeemable non-controlling interests and equity|$38,774|$32,109|
 ---
-# Uber Technologies, Inc. Quarterly Report
+# UBER Q4 2022 Financial Performance
 
-# Uber Technologies, Inc. - Condensed Consolidated Statements of Operations
+# UBER TECHNOLOGIES, INC. - Q4 2022 Financial Performance
 
-Three Months Ended December 31
-Year Ended December 31
+## Condensed Consolidated Statements of Operations
+
+Three Months Ended December 31, 2021
+Three Months Ended December 31, 2022
+Year Ended December 31, 2021
+Year Ended December 31, 2022
 
 Revenue
 $5,778
+$8,607
 $17,455
+$31,877
 
 Costs and Expenses
 
 Cost of Revenue
 $3,104
+$5,307
 $9,351
+$19,659
 
 Operations and Support
 $547
+$605
 $1,877
+$2,413
 
 Sales and Marketing
 $1,262
+$1,122
 $4,789
+$4,756
 
 Research and Development
 $558
+$747
 $2,054
+$2,798
 
 General and Administrative
 $611
+$745
 $2,316
+$3,136
 
 Depreciation and Amortization
 $246
+$223
 $902
+$947
 
 Total Costs and Expenses
 $6,328
+$8,749
 $21,289
+$33,709
 
 Loss from Operations
 ($550)
+($142)
 ($3,834)
+($1,832)
 
 Interest Expense
 ($130)
+($151)
 ($483)
+($565)
 
 Other Income (Expense), Net
 $1,471
+$767
 $3,292
+($7,029)
 
-Income (Loss) Before Income Taxes
+Income (Loss) Before Income Taxes and Income (Loss) from Equity Method Investments
 $791
+$474
 ($1,025)
+($9,426)
+
+Provision for (Benefit from) Income Taxes
+($97)
+($84)
+($492)
+($181)
+
+Income (Loss) from Equity Method Investments
+($9)
+$42
+($37)
+$107
+
+Net Income (Loss) Including Non-Controlling Interests
+$879
+$600
+($570)
+($9,138)
+
+Less: Net Income (Loss) Attributable to Non-Controlling Interests, Net of Tax
+($13)
+$5
+($74)
+$3
 
 Net Income (Loss) Attributable to Uber Technologies, Inc.
 $892
+$595
 ($496)
+($9,141)
 
-Net Income (Loss) Per Share
+Net Income (Loss) Per Share Attributable to Uber Technologies, Inc. Common Stockholders
 
 Basic
 $0.46
+$0.30
 ($0.26)
+($4.64)
 
 Diluted
 $0.44
+$0.29
 ($0.29)
+($4.65)
 
-Weighted-average shares used to compute net income per share: Basic - 1,936,736 (2021) and 1,994,800 (2022), Diluted - 2,005,591 (2021) and 2,060,575 (2022).
+Weighted-Average Shares Used to Compute Net Income (Loss) Per Share Attributable to Common Stockholders
+1,936,736
+1,994,800
+1,892,546
+1,972,131
 ---
-# Uber Technologies, Inc. - Quarterly Report
+# UBER Q4 2022 Financial Performance
 
-# Uber Technologies, Inc. - Condensed Consolidated Statements of Cash Flows
+# UBER TECHNOLOGIES, INC. - Q4 2022 Financial Performance
 
+## CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (In millions) (Unaudited)
+
+Cash flows from operating activities
 Three Months Ended December 31, 2021
 Three Months Ended December 31, 2022
 Year Ended December 31, 2021
@@ -481,22 +631,22 @@ Stock-based compensation
 1,793
 
 Gain from sale of investments
-($242)
+(242)
 �
-($413)
+(413)
 �
 
 Gain on business divestitures, net
 �
 �
-($1,684)
-($14)
+(1,684)
+(14)
 
 Deferred income taxes
-($210)
-($190)
-($692)
-($441)
+(210)
+(190)
+(692)
+(441)
 
 Impairments of goodwill, long-lived assets and other assets
 100
@@ -512,21 +662,21 @@ Impairment of equity method investment
 
 Loss (income) from equity method investments, net
 9
-($42)
+(42)
 37
-($107)
+(107)
 
 Unrealized (gain) loss on debt and equity securities, net
-($1,198)
-($752)
-($1,142)
-$7,045
+(1,198)
+(752)
+(1,142)
+7,045
 
 Revaluation of MLU B.V. call option
 �
-($11)
+(11)
 �
-($191)
+(191)
 
 Unrealized foreign currency transactions
 26
@@ -535,24 +685,24 @@ Unrealized foreign currency transactions
 96
 
 Other
-($46)
-($12)
+(46)
+(12)
 4
-($7)
+(7)
 
 Change in assets and liabilities, net of impact of business acquisitions and disposals:
 
 Accounts receivable
-($243)
-($323)
-($597)
-($542)
+(243)
+(323)
+(597)
+(542)
 
 Prepaid expenses and other assets
-($7)
-($139)
-($236)
-($196)
+(7)
+(139)
+(236)
+(196)
 
 Collateral held by insurer
 �
@@ -568,9 +718,9 @@ Operating lease right-of-use assets
 
 Accounts payable
 19
-($53)
+(53)
 90
-($133)
+(133)
 
 Accrued insurance reserves
 26
@@ -580,28 +730,23 @@ Accrued insurance reserves
 
 Accrued expenses and other liabilities
 177
-($405)
+(405)
 1,068
 492
 
 Operating lease liabilities
-($60)
-($46)
-($184)
-($215)
+(60)
+(46)
+(184)
+(215)
 
 Net cash provided by (used in) operating activities
-($107)
-($244)
-($445)
-$642
+(107)
+(244)
+(445)
+642
 
-## Cash flows from investing activities
-
-Three Months Ended December 31, 2021
-Three Months Ended December 31, 2022
-Year Ended December 31, 2021
-Year Ended December 31, 2022
+Cash flows from investing activities
 
 Purchases of property and equipment
 ($80)
@@ -616,51 +761,44 @@ Purchases of non-marketable equity securities
 ($14)
 
 Purchases of marketable securities
-�
+
 ($1,708)
 ($1,113)
 ($1,708)
 
 Proceeds from maturities and sales of marketable securities
-�
-�
+
 $2,291
 $376
 
 Proceeds from sale of non-marketable equity securities
-�
-�
+
 $500
-�
 
 Proceeds from sale of equity method investments and grant of related call option
 $200
-�
+
 $1,000
-�
 
 Proceeds from business divestiture, net of cash divested
-�
-�
-�
+
 $26
 
 Acquisition of businesses, net of cash acquired
 ($2,203)
-�
+
 ($2,314)
 ($59)
 
 Purchase of notes receivables
 ($55)
-�
+
 ($297)
-�
 
 Other investing activities
 ($5)
 ($2)
-12
+$12
 ($6)
 
 Net cash used in investing activities
@@ -669,112 +807,61 @@ Net cash used in investing activities
 ($1,201)
 ($1,637)
 ---
-# Uber Technologies, Inc. Quarterly Report
+# UBER Financial Performance Q4 2022
 
-# Cash Flows from Financing Activities
+# UBER Financial Performance Q4 2022
 
-Three Months Ended December 31
-Year Ended December 31
+The document offers an extensive overview of the UBER's financial performance for the fourth quarter of 2022. It includes unaudited financial statements, management discussion and analysis, and other relevant disclosures as required by the SEC. The form features several tables for detailed examination. Please provide precise responses when addressing the questions contained within.
 
-Proceeds from issuance and sale of subsidiary stock units
-550
-675
+## Cash Flows from Financing Activities
 
-Proceeds from the issuance of common stock under the Employee Stock Purchase Plan
-40
-107
-
-Issuance of term loan and notes, net of issuance costs
----
-1,484
-
-Principal repayment on term loan and notes
-(27)
-(27)
-
-Principal repayment on Careem Notes
-(113)
-(307)
-
-Principal payments on finance leases
-(60)
-(226)
-
-Other financing activities
-24
-74
-
-Net cash provided by (used in) financing activities
-414
-1,780
+| |Three Months Ended December 31|Year Ended December 31|2021|2022 (Unaudited)|2021|2022|
+|---|---|---|---|---|---|---|
+|Proceeds from issuance and sale of subsidiary stock units| | |550|-|675|255|
+|Proceeds from the issuance of common stock under the Employee Stock Purchase Plan| | |40|33|107|92|
+|Principal repayment on term loan and notes| | |(27)|-|(27)|-|
+|Principal repayment on Careem Notes| | |(113)|(80)|(307)|(80)|
+|Principal payments on finance leases| | |(60)|(37)|(226)|(184)|
+|Other financing activities| | |24|(5)|74|(68)|
+|Net cash provided by (used in) financing activities| | |414|(89)|1,780|15|
 
 ## Effect of Exchange Rate Changes on Cash and Cash Equivalents
 
-Three Months Ended December 31
-Year Ended December 31
-
-Net increase (decrease) in cash and cash equivalents, and restricted cash and cash equivalents
-(1,985)
-65
-
-Cash and cash equivalents, and restricted cash and cash equivalents
-Beginning of period: 9,790 End of period: 7,805
-Beginning of period: 7,391 End of period: 7,805
+| |Three Months Ended December 31|Year Ended December 31|2021|2022 (Unaudited)|2021|2022|
+|---|---|---|---|---|---|---|
+|Net increase (decrease) in cash and cash equivalents, and restricted cash and cash equivalents| | |(1,985)|(1,957)|65|(1,128)|
+|Cash and cash equivalents, and restricted cash and cash equivalents|Beginning of period| |9,790|8,634|7,391|7,805|
+|Reclassification from assets held for sale during the period|-|-|349|-| | |
+|End of period|$7,805|$6,677|$7,805|$6,677| | |
 
 ## Other Income (Expense), Net
 
-Three Months Ended December 31
-Year Ended December 31
+| |Three Months Ended December 31|Year Ended December 31|2021|2022 (Unaudited)|2021|2022|
+|---|---|---|---|---|---|---|
+|Interest income|$9|$73|$37|$139| | |
+|Foreign currency exchange gains (losses), net|($29)|($71)|($67)|($147)| | |
+|Gain on business divestitures, net| | |(1)|-|$1,684|$14|
+|Gain from sale of investments|$242|-|$413|-| | |
+|Unrealized gain (loss) on debt and equity securities, net|$1,198|$752|$1,142|($7,045)| | |
+|Impairment of equity method investment|-|-|-|($182)| | |
+|Revaluation of MLU B.V. call option|-|$11|-|$191| | |
+|Other, net|$51|$2|$83|$1| | |
+|Other income (expense), net|$1,471|$767|$3,292|($7,029)| | |
 
-Interest income
-9
-37
+(1) During the year ended December 31, 2021, gain on business divestitures, net, represented a $1.6 billion gain on the sale of our ATG business to Aurora recognized in the first quarter of 2021.
 
-Foreign currency exchange gains (losses), net
-(29)
-(67)
+(2) During the year ended December 31, 2021, gain from sale of investments primarily represented a $348 million gain recognized from the sale of our equity interests in MLU B.V. to Yandex, of which $242 million was recognized in the fourth quarter of 2021.
 
-Gain on business divestitures, net
+(3) During the three months ended December 31, 2021, unrealized gain (loss) on debt and equity securities, net primarily represented a $1.6 billion unrealized gain on our Grab investments, a $1.0 billion unrealized gain on our Aurora investments, partially offset by a $1.3 billion unrealized loss on our Didi investment. During the year ended December 31, 2021, unrealized gain (loss) on debt and equity securities, net primarily represented a $1.6 billion net unrealized gain on our Grab investment, a $1.6 billion unrealized gain on our Aurora investments and a $991 million unrealized gain on our Zomato investment, partially offset by a $3.0 billion unrealized loss on our Didi investment. During the three months ended December 31, 2022, unrealized gain (loss) on debt and equity securities, net, primarily represented a $773 million unrealized gain on our Didi investment, a $316 million unrealized gain on our Grab investment, partially offset by a $301 million unrealized loss on our Aurora investments.
 ---
-1,684
+# UBER Financial Performance Q4 2022
 
-Gain from sale of investments
-242
-413
+# UBER Financial Performance Q4 2022
 
-Unrealized gain (loss) on debt and equity securities, net
-1,198
-(7,045)
+The document offers an extensive overview of the UBER's financial performance for the fourth quarter of 2022. It includes unaudited financial statements, management discussion and analysis, and other relevant disclosures as required by the SEC. The form features several tables for detailed examination. Please provide precise responses when addressing the questions contained within.
 
-Impairment of equity method investment
----
-(182)
+## Summary of Stock-Based Compensation Expense
 
-Revaluation of MLU B.V. call option
----
-191
-
-Other, net
-51
-83
-
-Other income (expense), net
-1,471
-(7,029)
----
-# Uber Quarterly Report
-
-# Uber Quarterly Report
-
-During the year ended December 31, 2022, unrealized gain (loss) on debt and equity securities, net primarily represented a $3.0 billion net unrealized loss on our Aurora investments, a $2.1 billion net unrealized loss on our Grab investment, a $1.0 billion net unrealized loss on our Didi investment, a $747 million change of fair value on our Zomato investment, as well as a $142 million net unrealized loss on our other investments in securities accounted for under the fair value option.
-
-During the year ended December 31, 2022, impairment of equity method investment represents a $182 million impairment loss recorded on our MLU B.V. equity method investment.
-
-During the year ended December 31, 2022, revaluation of MLU B.V. call option represents a $191 million net gain for the change in fair value of the call option granted to Yandex (�MLU B.V. Call Option�).
-
-## Stock-Based Compensation Expense
-
-**Total stock-based compensation expense (in millions)**
 | |Three Months Ended December 31, 2021|Three Months Ended December 31, 2022 (Unaudited)|Year Ended December 31, 2021|Year Ended December 31, 2022|
 |---|---|---|---|---|
 |Operations and support|$31|$40|$139|$154|
@@ -783,128 +870,186 @@ During the year ended December 31, 2022, revaluation of MLU B.V. call option rep
 |General and administrative|$99|$121|$332|$477|
 |Total|$334|$482|$1,168|$1,793|
 
-## Key Terms for Our Key Metrics and Non-GAAP Financial Measures
+## Key Terms for Key Metrics and Non-GAAP Financial Measures
 
-Adjusted EBITDA: Adjusted EBITDA is a Non-GAAP measure. It excludes various items to assess ongoing operating performance.
+Adjusted EBITDA: Adjusted EBITDA is a Non-GAAP measure...
 
-Adjusted EBITDA margin: Defined as Adjusted EBITDA as a percentage of Gross Bookings.
+Adjusted EBITDA margin: We define Adjusted EBITDA margin as...
 
-COVID-19 response initiatives: Includes financial assistance to Drivers, personal protective equipment costs, free rides, and charitable donations.
+COVID-19 response initiatives: To support those whose earning opportunities have been depressed as a result of COVID-19...
 
-## Definitions
+Driver(s): The term Driver collectively refers to independent providers of ride or delivery services who use our platform...
 
-Driver(s): Refers to independent providers of ride or delivery services using the platform.
+Driver or restaurant earnings: Driver or restaurant earnings refer to the net portion of the fare or the net portion of the order value...
 
-Driver or restaurant earnings: Net portion of fare or order value retained by Driver or restaurant.
-
-Driver incentives: Payments made to Drivers separate from fare, including incentive offers.
+Driver incentives: Driver incentives refer to payments that we make to Drivers...
 ---
-# Uber Technologies, Inc. Quarterly Report
+# UBER Financial Performance Q4 2022
 
-# Uber Technologies, Inc. Quarterly Report
+# UBER Financial Performance Q4 2022
 
-This document contains unaudited financial information for Uber Technologies, Inc. for a specific quarter.
+## Overview
 
-## Key Financial Definitions
+The document offers an extensive overview of the UBER's financial performance for the fourth quarter of 2022. It includes
+unaudited financial statements, management discussion and analysis, and other relevant disclosures as required by the SEC.
+The form features several tables for detailed examination. Please provide precise responses when addressing the questions
+contained within.
+
+## Financial Measures Definitions
+
+Below are definitions of key financial measures used by UBER:
 
 - Free Cash Flow: Net cash flows from operating activities less capital expenditures.
-- Free Cash Flow, excluding HMRC VAT claims settlement: Free cash flow excluding the impact of HMRC VAT claims settlement.
-- Gross Bookings: Total dollar value of Mobility rides, Delivery orders, Driver and Merchant earnings, and Freight Revenue.
-- Monthly Active Platform Consumers (MAPCs): Number of unique consumers who completed a ride or received a delivery order in a month.
-- Segment Adjusted EBITDA: Segment revenue less direct costs and expenses of that segment.
-- Segment Adjusted EBITDA margin: Segment Adjusted EBITDA as a percentage of segment Gross Bookings.
+- Free Cash Flow, excluding HMRC VAT claims settlement: Free cash flow excluding the impact of HMRC VAT
+claims settlement.
+- Gross Bookings: Total dollar value of various services provided by UBER.
+- Monthly Active Platform Consumers (MAPCs): Number of unique consumers who completed a ride or received
+a delivery order in a given month.
+- Segment Adjusted EBITDA: Segment revenue less direct costs and expenses.
 - Take Rate: Revenue as a percentage of Gross Bookings.
-- Trips: Number of completed consumer rides or delivery orders in a given period.
+- Trips: Number of completed rides or delivery orders in a given period.
 
 ## Non-GAAP Measures
 
-Uber Technologies, Inc. uses Adjusted EBITDA, Free Cash Flow, and other non-GAAP measures to evaluate its performance.
-
-Adjusted EBITDA: Net income excluding certain items to assess operating performance.
-
-COVID-19 Impact: Excluding impacts of COVID-19 response initiatives on financial results.
-
-These non-GAAP financial measures provide useful information for investors and management.
----
-# Uber Technologies, Inc. Quarterly Report
-
-# Uber Technologies, Inc. Quarterly Report
-
-This document contains important financial information about Uber Technologies, Inc. for the specific quarter.
+UBER uses non-GAAP financial measures such as Adjusted EBITDA to evaluate its operating performance. These measures provide
+useful information to investors and others in understanding and evaluating UBER's results.
 
 ## Adjusted EBITDA
 
-Adjusted EBITDA is a key financial measure used by Uber Technologies, Inc. It excludes certain items to provide a clearer assessment of the company's performance. Some limitations of Adjusted EBITDA include:
+Adjusted EBITDA is defined as net income excluding various items such as depreciation, stock-based compensation, and certain
+legal and regulatory expenses. It is a key measure used by UBER's management team to assess operating performance and make
+strategic decisions.
 
-- Exclusion of certain recurring non-cash charges
+Note: The above information is a summary and does not represent the full content of the document.
+---
+# UBER Financial Performance Q4 2022
+
+# UBER Financial Performance Q4 2022
+
+The document offers an extensive overview of the UBER's financial performance for the fourth quarter of 2022. It includes unaudited financial statements, management discussion and analysis, and other relevant disclosures as required by the SEC. The form features several tables for detailed examination. Please provide precise responses when addressing the questions contained within.
+
+## Adjusted EBITDA
+
+Adjusted EBITDA has limitations as a financial measure, should be considered as supplemental in nature, and is not meant as a substitute for the related financial information prepared in accordance with GAAP. These limitations include:
+
+- Exclusion of certain recurring, non-cash charges
 - Exclusion of stock-based compensation expense
-- Exclusion of restructuring and related charges
-- Exclusion of items not indicative of ongoing performance
+- Exclusion of certain restructuring and related charges
+- Exclusion of other items not indicative of ongoing operating performance
+- Exclusion of period to period changes in taxes
+- Exclusion of components of other income (expense), net
+- Exclusion of certain legal, tax, and regulatory reserve changes and settlements
 
 ## Constant Currency
 
-Uber Technologies, Inc. compares its current period results with the corresponding prior period using constant currency disclosure. This helps in assessing underlying revenue performance excluding foreign currency rate fluctuations.
+Constant currency comparison is used to assess how underlying revenue performed excluding the effect of foreign currency rate fluctuations.
 
 ## Free Cash Flow
 
-Free cash flow is defined as net cash flows from operating activities less capital expenditures. It provides insights into the company's cash position.
+Free cash flow is defined as net cash flows from operating activities less capital expenditures.
 
 ## Free Cash Flow, excluding HMRC VAT claims settlement
 
-This metric excludes the impact of HMRC VAT claims settlement, providing a clearer view of free cash flow without this specific outflow.
+Free cash flow, excluding HMRC VAT claims settlement, is defined as free cash flow excluding the impact of the cash outflow related to the settlement of outstanding HMRC VAT claims.
 
 ## Non-GAAP Costs and Operating Expenses
 
-Non-GAAP costs and operating expenses exclude various items such as stock-based compensation expense, legal and regulatory changes, and certain operating costs related to COVID-19 response initiatives.
+Non-GAAP costs and operating expenses are defined as costs and operating expenses excluding various items not indicative of ongoing operating performance.
 ---
-# Uber Technologies, Inc. Quarterly Report
+# UBER Financial Performance Q4 2022
 
-# Reconciliations of Non-GAAP Measures
+# UBER Financial Performance for Q4 2022
 
-Adjusted EBITDA
+## Reconciliations of Non-GAAP Measures
+
+### Adjusted EBITDA
 
 | |Three Months Ended December 31|Year Ended December 31|
 |---|---|---|
-| | |2021|2022|2021|2022|
+| |2021|2022|2021|2022|
 |Net income (loss) attributable to Uber Technologies, Inc.|$892|$595|($496)|($9,141)|
+|Provision for (benefit from) income taxes|($97)|($84)|($492)|($181)|
+|Interest expense|$130|$151|$483|$565|
+|Other (income) expense, net|($1,471)|($767)|($3,292)|$7,029|
+|Depreciation and amortization|$246|$223|$902|$947|
+|Stock-based compensation expense|$334|$482|$1,168|$1,793|
+|Legal, tax, and regulatory reserve changes and settlements|($67)|$81|$526|$732|
+|Goodwill and asset impairments/loss on sale of assets|$100|$8|$157|$25|
+|Acquisition, financing and divestitures related expenses|$17|$7|$102|$46|
+|Accelerated lease costs related to cease-use of ROU assets|$3|$6|$5|$6|
+|COVID-19 response initiatives|$3|�|$54|$1|
+|Loss on lease arrangement, net| |�|�|�|$7|
+|Restructuring and related charges, net| |�|�|�|$2|
+|Legacy auto insurance transfer| |�|�|$103|�|
+|Mass arbitration fees, net| |�|�|$43|($14)|
 |Adjusted EBITDA|$86|$665|($774)|$1,713|
 
-# Free Cash Flow and Free Cash Flow, Excluding HMRC VAT Claims Settlement
-
-Free cash flow reconciliation:
+## Free Cash Flow and Free Cash Flow, Excluding HMRC VAT Claims Settlement
 
 | |Three Months Ended December 31|Year Ended December 31|
 |---|---|---|
-| | |2021|2022|2021|2022|
+| |2021|2022|2021|2022|
 |Net cash provided by (used in) operating activities|($107)|($244)|($445)|$642|
 |Purchases of property and equipment|($80)|($59)|($298)|($252)|
 |Free cash flow|($187)|($303)|($743)|$390|
-
-Free cash flow, excluding HMRC VAT claims settlement:
-
-| |Three Months Ended December 31|Year Ended December 31|
-|---|---|---|
-| | |2021|2022|2021|2022|
+|HMRC VAT claims settlement| |�|$733|�|$733|
 |Free cash flow, excluding HMRC VAT claims settlement|($187)|$430|($743)|$1,123|
 ---
-# Uber Technologies, Inc. Quarterly Report
+# UBER Financial Performance Q4 2022
 
-# Non-GAAP Costs and Operating Expenses
+# UBER Financial Performance Q4 2022
 
-The following tables present reconciliations of Non-GAAP costs and operating expenses to the most directly comparable GAAP financial measure for each of the periods indicated.
+The document offers an extensive overview of the UBER's financial performance for the fourth quarter of 2022. It includes unaudited financial statements, management discussion and analysis, and other relevant disclosures as required by the SEC. The form features several tables for detailed examination. Please provide precise responses when addressing the questions contained within.
 
-**Non-GAAP Cost of Revenue Exclusive of Depreciation and Amortization Reconciliation**
+## Non-GAAP Costs and Operating Expenses
+
+### Non-GAAP Cost of Revenue Exclusive of Depreciation and Amortization Reconciliation
+
 | |December 31, 2021|September 30, 2022|December 31, 2022|
 |---|---|---|---|
 |GAAP Cost of Revenue Exclusive of Depreciation and Amortization|$3,104|$5,173|$5,307|
-|COVID-19 Response Initiatives|(1)|�|�|
-|Acquisition, Financing and Divestitures Related Expenses|4|(5)|�|
+|COVID-19 Response Initiatives|(1)|-|-|
+|Acquisition, Financing and Divestitures Related Expenses|4|(5)|-|
 |Non-GAAP Cost of Revenue Exclusive of Depreciation and Amortization|$3,107|$5,168|$5,307|
 
-**Non-GAAP Operating Expenses**
+### Non-GAAP Operating Expenses
+
+#### Non-GAAP Operations and Support Reconciliation
+
 | |December 31, 2021|September 30, 2022|December 31, 2022|
 |---|---|---|---|
+|GAAP Operations and Support|$547|$617|$605|
+|Goodwill and Asset Impairments/Loss on Sale of Assets|(4)|-|-|
+|Acquisition, Financing and Divestitures Related Expenses|(3)|-|(1)|
+|Stock-based Compensation Expense|(31)|(41)|(40)|
 |Non-GAAP Operations and Support|$509|$576|$564|
+
+#### Non-GAAP Sales and Marketing Reconciliation
+
+| |December 31, 2021|September 30, 2022|December 31, 2022|
+|---|---|---|---|
+|GAAP Sales and Marketing|$1,262|$1,153|$1,122|
+|Stock-based Compensation Expense|(24)|(26)|(26)|
 |Non-GAAP Sales and Marketing|$1,238|$1,127|$1,096|
+
+#### Non-GAAP Research and Development Reconciliation
+
+| |December 31, 2021|September 30, 2022|December 31, 2022|
+|---|---|---|---|
+|GAAP Research and Development|$558|$760|$747|
+|Acquisition, Financing and Divestitures Related Expenses|(1)|-|-|
+|Goodwill and Asset Impairments/Loss on Sale of Assets|(10)|-|-|
+|Stock-based Compensation Expense|(180)|(292)|(295)|
 |Non-GAAP Research and Development|$367|$468|$452|
+
+#### Non-GAAP General and Administrative Reconciliation
+
+| |December 31, 2021|September 30, 2022|December 31, 2022|
+|---|---|---|---|
+|GAAP General and Administrative|$611|$908|$745|
+|Legal, Tax, and Regulatory Reserve Changes and Settlements|$67|($283)|($81)|
+|Goodwill and Asset Impairments/Loss on Sale of Assets|($86)|-|($8)|
+|Acquisition, Financing and Divestitures Related Expenses|($17)|($14)|($6)|
+|Accelerated Lease Costs Related to Cease-Use of ROU Assets|($3)|-|($6)|
+|Stock-based Compensation Expense|($99)|($123)|($121)|
 |Non-GAAP General and Administrative|$473|$488|$523|

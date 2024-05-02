@@ -6,7 +6,7 @@ def main():
     # initialize llm and vector store
     if 'qa' not in st.session_state:
         print("INITIALIZE QA")
-        st.session_state.fp_pdfs = r"C:\Users\oliver.koehn\Documents\gitProjects\dataAndAiExamples\ragSimple\in\pdfs"
+        st.session_state.fp_pdfs = fr"C:\Users\{os.getlogin()}\Documents\gitProjects\dataAndAiExamples\ragSimple\in\pdfs"
         st.session_state.qa = get_qa(st.session_state.fp_pdfs, openai_source)
 
     # Button for reloading
